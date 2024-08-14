@@ -1,0 +1,2 @@
+# SOfS-algorithm
+SOfS algorithm
